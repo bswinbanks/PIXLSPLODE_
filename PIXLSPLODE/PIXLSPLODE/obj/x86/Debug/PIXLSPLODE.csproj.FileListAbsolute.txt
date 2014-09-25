@@ -1,0 +1,24 @@
+H:\2014\Semester 2\Working Folder\BenSwinbanks\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\obj\x86\Debug\PIXLSPLODE.csprojResolveAssemblyReference.cache
+H:\2014\Semester 2\Working Folder\BenSwinbanks\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\2014\Semester 2\Working Folder\BenSwinbanks\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\bin\x86\Debug\Content\enemyBomber.xnb
+H:\2014\Semester 2\Working Folder\BenSwinbanks\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\bin\x86\Debug\Content\enemyBomberBomb.xnb
+H:\2014\Semester 2\Working Folder\BenSwinbanks\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\bin\x86\Debug\Content\enemyFighter.xnb
+H:\2014\Semester 2\Working Folder\BenSwinbanks\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\bin\x86\Debug\Content\enemyFighterLaser.xnb
+H:\2014\Semester 2\Working Folder\BenSwinbanks\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\bin\x86\Debug\Content\player.xnb
+H:\2014\Semester 2\Working Folder\BenSwinbanks\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\bin\x86\Debug\Content\playerLaser.xnb
+H:\2014\Semester 2\Working Folder\BenSwinbanks\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\bin\x86\Debug\PIXLSPLODE.exe
+H:\2014\Semester 2\Working Folder\BenSwinbanks\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\bin\x86\Debug\PIXLSPLODE.pdb
+H:\2014\Semester 2\Working Folder\BenSwinbanks\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\obj\x86\Debug\PIXLSPLODE.exe
+H:\2014\Semester 2\Working Folder\BenSwinbanks\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\obj\x86\Debug\PIXLSPLODE.pdb
+C:\Users\Benjamin Swinbanks\Desktop\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\bin\x86\Debug\Content\enemyBomber.xnb
+C:\Users\Benjamin Swinbanks\Desktop\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\bin\x86\Debug\Content\enemyBomberBomb.xnb
+C:\Users\Benjamin Swinbanks\Desktop\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\bin\x86\Debug\Content\enemyFighter.xnb
+C:\Users\Benjamin Swinbanks\Desktop\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\bin\x86\Debug\Content\enemyFighterLaser.xnb
+C:\Users\Benjamin Swinbanks\Desktop\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\bin\x86\Debug\Content\player.xnb
+C:\Users\Benjamin Swinbanks\Desktop\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\bin\x86\Debug\Content\playerLaser.xnb
+C:\Users\Benjamin Swinbanks\Desktop\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\bin\x86\Debug\PIXLSPLODE.exe
+C:\Users\Benjamin Swinbanks\Desktop\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\bin\x86\Debug\PIXLSPLODE.pdb
+C:\Users\Benjamin Swinbanks\Desktop\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\obj\x86\Debug\PIXLSPLODE.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin Swinbanks\Desktop\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Benjamin Swinbanks\Desktop\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\obj\x86\Debug\PIXLSPLODE.exe
+C:\Users\Benjamin Swinbanks\Desktop\PIXLSPODE\PIXLSPLODE\PIXLSPLODE\PIXLSPLODE\obj\x86\Debug\PIXLSPLODE.pdb
