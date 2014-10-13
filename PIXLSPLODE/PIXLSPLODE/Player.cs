@@ -16,7 +16,7 @@ namespace PIXLSPLODE
     {   
 
         // Inherent classes
-        ProjectileManager projectileManager = new ProjectileManager();
+        ProjectileManager pmanage = new ProjectileManager();
 
         public Vector2 position;
 
@@ -64,7 +64,7 @@ namespace PIXLSPLODE
 
         public void ContentLoad(ContentManager content)
         {
-            projectileManager.ContentLoad(content);
+            pmanage.ContentLoad(content);
         }
 
         public void SetGraphicsDeviceManager(GraphicsDeviceManager a_graphics)
@@ -76,7 +76,7 @@ namespace PIXLSPLODE
         {
             if (Keyboard.GetState().IsKeyDown(Keys.G))
             {
-                projectileManager.ShootLaser(new Vector2(5, 5), 5, 1, new Vector2(0, 0), 0, 0);
+                pmanage.ShootLaser(new Vector2(5, 5), 5, 1, new Vector2(0, 1), 0, 0);
             }
 
             UpdateControls();
@@ -105,7 +105,7 @@ namespace PIXLSPLODE
 
             if (Keyboard.GetState().IsKeyDown(Keys.Space)) //SHOOT LASER - DOESNT WORK
             {
-                projectileManager.ShootLaser(new Vector2(5, 5), 5, 1, new Vector2(0, 0), 0, 0);
+                pmanage.ShootLaser(new Vector2(5, 5), 5, 1, new Vector2(0, 1), 0, 0);
             }
 
         }

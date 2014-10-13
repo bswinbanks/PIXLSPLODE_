@@ -19,12 +19,10 @@ namespace PIXLSPLODE
         List<Projectile> projectiles = new List<Projectile>();
 
         //Sprites
-        Texture2D sprite;
         Texture2D spriteLaser;
 
         //Attributes
         Vector2 position;
-        Vector2 dimensions;
         int attackPower;
         int moveType; //0 = direction based, 1 = homing on player, 3 = hybrid of both (like a missile that fires straight then turns towards target
         int team; //the team that the laser is on for collision
@@ -37,10 +35,10 @@ namespace PIXLSPLODE
 
         public void Update()
         {
-           /* if (Keyboard.GetState().IsKeyDown(Keys.E))
+            if (Keyboard.GetState().IsKeyDown(Keys.E))
             {
                 ShootLaser(new Vector2(5,5), 5, 1, new Vector2(0,0), 0, 0);
-            }*/
+            }
 
             foreach (Projectile each in projectiles)
             {
@@ -63,6 +61,7 @@ namespace PIXLSPLODE
 
        public void ShootLaser (Vector2 a_position, int a_attackPower, float a_speed, Vector2 a_direction, int a_moveType, int a_team)
        {
+
            position = a_position;
            attackPower = a_attackPower;
            speed = a_speed;

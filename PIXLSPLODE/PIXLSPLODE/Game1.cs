@@ -24,7 +24,7 @@ namespace PIXLSPLODE
         // CLASSES
         Player myPlayer = new Player();
         Spawner spawn = new Spawner();
-        ProjectileManager projectileManager = new ProjectileManager();
+        ProjectileManager pmanage = new ProjectileManager();
 
         int resMultiplier = 3; //pixel multiplier
 
@@ -54,10 +54,11 @@ namespace PIXLSPLODE
 
             Texture2D tempSprite = Content.Load<Texture2D>("player");
 
+
             myPlayer.SetSprite(tempSprite);
-           // myPlayer.ContentLoad(Content);
+
             spawn.ContentLoad(Content);
-            projectileManager.ContentLoad(Content);
+            pmanage.ContentLoad(Content);
         }
 
         protected override void UnloadContent()
@@ -74,13 +75,14 @@ namespace PIXLSPLODE
 
             if (Keyboard.GetState().IsKeyDown(Keys.V)) //SHOOT LASER TEST - WORKS
             {
-                projectileManager.ShootLaser(new Vector2(5, 5), 5, 1, new Vector2(0, 0), 0, 0);
+                pmanage.ShootLaser(new Vector2(5, 5), 5, 1, new Vector2(0, 0), 0, 0);
             }
 
             // TODO: Add your update logic here
-            projectileManager.Update();
+            
             myPlayer.Update();
             spawn.Update();
+            pmanage.Update();
             
 
 
@@ -103,7 +105,7 @@ namespace PIXLSPLODE
 
             myPlayer.Draw(spriteBatch);
             spawn.Draw(spriteBatch);
-            projectileManager.Draw(spriteBatch);
+            pmanage.Draw(spriteBatch);
 
 
             spriteBatch.End();
